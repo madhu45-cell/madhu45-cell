@@ -25,9 +25,6 @@
   <a href="mailto:madhusudantame@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="tel:+919958735654">
-    <img src="https://img.shields.io/badge/Phone-%2300A859?style=for-the-badge&logo=mobilephone&logoColor=white" alt="Mobile"/>
-  </a>
 </p>
 
 
