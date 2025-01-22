@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=madhu45-cell&show_icons=true&theme=radical" alt="madhu45-cell stats"/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=madhu45-cell&theme=radical" alt="madhu45-cell streak stats"/>
 </p>
 
 <p align="center">
