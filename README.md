@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhu Sudan</h1>
-<h3 align="center">🚀 Passionate about coding, problem-solving, and learning new technologies! 🌟</h3>
+<h1 align="center">Hi ,Its me Madhu Sudan</h1>
+<h3 align="center"> Passionate about coding, problem-solving, and learning new technologies! 🌟</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=madhu45-cell&label=Profile%20views&color=0e75b6&style=flat" alt="madhu45-cell" /> 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 About Me
+###  About Me
 - 🔭 **Currently working on:** **Building a sleek portfolio**  
 - 🌱 **Currently learning:** **Python Backend, Frontend Development, and UI/UX Design**  
 - 👯 **Open to collaborate on:** **Industrial and open-source projects**  
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Connect With Me:
+###  Connect With Me:
 <p align="left">
   <a href="https://linkedin.com/in/madhu-sudan-27125b296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Skills & Tools:
+###  Skills & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=madhu45-cell&show_icons=true&theme=radical" alt="madhu45-cell stats"/>
 </p>
