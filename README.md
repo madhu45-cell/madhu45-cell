@@ -139,7 +139,7 @@ Computer Vision Freshness Detector → Image Classification
 
 ---
 
-## CONTRIBUTION ENGINE
+## CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=react-dark" />
