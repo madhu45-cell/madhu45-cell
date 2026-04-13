@@ -140,13 +140,11 @@ AI/ML: Regression | Classification | Clustering | Model Deployment
 
 ---
 
-<p align="center">
-## CONTRIBUTION MATRIX
+##  CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=minimal" />
 </p>
-
 
 
 ---
