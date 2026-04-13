@@ -140,10 +140,10 @@ AI/ML: Regression | Classification | Clustering | Model Deployment
 
 ---
 
-##  CONTRIBUTION ACTIVITY
+##  ENGINEERING CONTRIBUTION FLOW
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=github-compact&bg_color=0B1220&color=3B82F6&line=3B82F6&point=60A5FA&hide_border=true" />
 </p>
 
 
