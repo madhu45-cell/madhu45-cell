@@ -14,6 +14,11 @@ Building intelligent AI systems, scalable backend APIs, and real-world machine l
 <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=22C55E&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+ML+Developer+%7C+Backend+Architect;Building+Production+Level+AI+Systems;FastAPI+%7C+Django+%7C+React+%7C+MongoDB;Turning+Data+into+Intelligence" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhu45-cell&label=Profile+Views&color=22c55e" />
+  <img src="https://img.shields.io/github/followers/madhu45-cell?style=social" />
+</p>
+
 ---
 
 ## AI SYSTEM PROFILE
@@ -162,3 +167,4 @@ LinkedIn: [https://linkedin.com/in/madhu-sudan-27125b296](https://linkedin.com/i
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=120&section=footer"/>
+
