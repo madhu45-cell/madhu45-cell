@@ -143,8 +143,9 @@ AI/ML: Regression | Classification | Clustering | Model Deployment
 ## CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=react-dark&hide_border=true" />
 </p>
+
 
 
 ---
