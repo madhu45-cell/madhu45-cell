@@ -1,11 +1,22 @@
-<!-- Hero Section -->
+<!-- 🌟 Animated GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Madhu Sudan</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast | Full-Stack Engineer (Django & FastAPI)</h3>
+<!-- Header Wave -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Madhu%20Sudan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<h2 align="center">🚀 Python Developer | AI/ML Engineer | Backend Specialist</h2>
 
 <p align="center">
-Passionate about building intelligent systems, scalable backend APIs, and data-driven AI applications 🚀
+  Passionate about building intelligent systems, scalable APIs, and AI-powered applications.
 </p>
+
+<!-- Typing Effect -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Python+Backend+Developer;Django+%7C+FastAPI+Developer;Data+Science+Enthusiast;Always+Learning+New+Tech+🚀" />
+</p>
+
+<!-- Profile Views -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhu45-cell&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -16,97 +27,116 @@ Passionate about building intelligent systems, scalable backend APIs, and data-d
 
 ## 🧠 About Me
 
-* 🔭 Currently working on: **AI-powered Full-Stack Applications & Portfolio Projects**
-* 🌱 Learning: **Advanced AI/ML, Deep Learning, System Design, and MLOps**
-* 👨‍💻 Focus Areas: **Backend Development + Machine Learning + Data Science**
-* 🤝 Open to collaborating on: **AI/ML projects, SaaS apps, and open-source contributions**
-* 📫 Reach me: **[madhusudantame@gmail.com](mailto:madhusudantame@gmail.com)**
-* ⚡ Fun fact: I love turning raw data into intelligent decisions 📊
+* 🔭 Working on: **AI + Full Stack SaaS Applications**
+* 🌱 Learning: **Advanced AI, Deep Learning, System Design, MLOps**
+* 👨‍💻 Skills: **Python, Django, FastAPI, React, ML Engineering**
+* 🧠 Interest: **Data Science, AI Models, Backend Architecture**
+* 🤝 Open to collaborate on: **AI/ML & Open Source Projects**
+* 📫 Email: **[madhusudantame@gmail.com](mailto:madhusudantame@gmail.com)**
+* ⚡ Fun Fact: I love transforming data into intelligence 📊
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Programming Languages
+### 🧑‍💻 Languages
 
-* Python 🐍 | JavaScript ⚡ | SQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</p>
 
-### 🧩 Backend Development
+### ⚡ Backend
 
-* Django 🔥 | FastAPI ⚡ | REST APIs | JWT Authentication
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+</p>
 
 ### 🌐 Frontend
 
-* HTML | CSS | JavaScript | React ⚛️
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases
 
-* MySQL 🐬 | PostgreSQL | MongoDB 🍃
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### 🤖 AI / ML / Data Science
 
-* Machine Learning (Scikit-Learn)
-* Deep Learning (TensorFlow / PyTorch basics)
-* Data Analysis (Pandas, NumPy)
-* Data Visualization (Matplotlib, Seaborn)
-
-### 🛠️ Tools & Platforms
-
-* Git & GitHub | Postman | Linux | VS Code | Figma
-
----
-
-## 🧠 AI/ML Expertise
-
-* Data Preprocessing & Feature Engineering
-* Model Training & Evaluation
-* Regression, Classification, Clustering
-* Time Series Forecasting
-* Model Deployment using FastAPI / Flask
-* Basic MLOps concepts
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-* 📊 **Car Price Prediction System** (ML + FastAPI)
-* 📈 **Stock Price Forecasting Model (LSTM / ARIMA)**
-* 🤖 **AI Recruiter System (Resume + Interview AI)**
-* 💰 **Personal Finance Tracker (MERN Stack)**
-* 🌿 **Vegetable Freshness Detection (AI Vision Project)**
+* 📊 Car Price Prediction (ML + FastAPI)
+* 📈 Stock Market Forecasting (LSTM / ARIMA)
+* 🤖 AI Recruiter System (Resume + Interview AI)
+* 💰 Personal Finance Tracker (Full Stack)
+* 🌿 AI Vegetable Freshness Detection System
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu45-cell&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu45-cell&layout=compact&theme=radical" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhu45-cell&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu45-cell&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 📈 Goals for 2026
+## 🔥 GitHub Activity
 
-* Build 5+ production-level AI/ML projects
-* Master FastAPI + Django backend architecture
-* Learn MLOps (Docker, CI/CD, Deployment)
-* Contribute to open-source AI projects
-* Deploy full-stack AI SaaS application
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu45-cell&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🎯 Goals 2026
+
+* 🚀 Build 10+ AI/ML production projects
+* 🧠 Master Deep Learning + MLOps
+* ☁️ Deploy scalable AI SaaS apps
+* 🔓 Contribute to open source
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/madhu-sudan-27125b296">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
   <a href="mailto:madhusudantame@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/madhu-sudan-27125b296">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
----
+<!-- Footer Wave -->
 
-💡 *“Turning ideas into intelligent systems using AI, data, and code.”*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+
