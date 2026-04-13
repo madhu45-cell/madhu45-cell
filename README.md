@@ -1,142 +1,140 @@
-<!-- 🌟 Animated GitHub Profile README -->
+<!-- Clean Professional GitHub Profile README (Enhanced Version) -->
 
-<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Madhu%20Sudan&fontSize=40&fontColor=ffffff"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Madhu%20Sudan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-<h2 align="center">🚀 Python Developer | AI/ML Engineer | Backend Specialist</h2>
+<h2 align="center">Python Developer | AI ML Engineer | Backend Developer</h2>
 
 <p align="center">
-  Passionate about building intelligent systems, scalable APIs, and AI-powered applications.
+Focused on building scalable backend systems, AI applications, and data-driven solutions.
 </p>
-
-<!-- Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Python+Backend+Developer;Django+%7C+FastAPI+Developer;Data+Science+Enthusiast;Always+Learning+New+Tech+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=madhu45-cell&label=Profile%20Views&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/madhu45-cell?style=social" />
 </p>
 
-<!-- Profile Views -->
+---
+
+## About Me
+
+```bash
+I am a Python Developer specialized in Backend Development and AI/ML Systems.
+I enjoy building scalable APIs, intelligent models, and production-ready applications.
+```
+
+<details>
+<summary>More About Me (Click to Expand)</summary>
+
+* Building AI-powered full stack applications
+* Working on ML models and backend architecture
+* Interested in Data Science and MLOps
+* Focused on Django, FastAPI, React, and Databases
+* Goal: Become a strong AI Engineer + Backend Architect
+
+</details>
+
+---
+
+## Skills
+
+### Programming Languages
+
+Python | JavaScript | SQL
+
+### Backend Development
+
+Django | FastAPI | REST APIs | Authentication | Microservices
+
+### Frontend Development
+
+React | HTML | CSS | JavaScript
+
+### Databases
+
+MySQL | PostgreSQL | MongoDB
+
+### Machine Learning / AI
+
+Scikit-Learn | Pandas | NumPy | Data Preprocessing | Model Training | Evaluation
+
+---
+
+## Projects
+
+Car Price Prediction System (ML + FastAPI)
+
+Stock Market Prediction System (Time Series Models)
+
+AI Resume Screening & Interview Automation System
+
+Full Stack Personal Finance Tracker Application
+
+Computer Vision Based Freshness Detection System
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhu45-cell&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/madhu45-cell?label=Followers&style=social" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhu45-cell&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu45-cell&layout=compact&theme=default" width="48%" />
 </p>
-
----
-
-## 🧠 About Me
-
-* 🔭 Working on: **AI + Full Stack SaaS Applications**
-* 🌱 Learning: **Advanced AI, Deep Learning, System Design, MLOps**
-* 👨‍💻 Skills: **Python, Django, FastAPI, React, ML Engineering**
-* 🧠 Interest: **Data Science, AI Models, Backend Architecture**
-* 🤝 Open to collaborate on: **AI/ML & Open Source Projects**
-* 📫 Email: **[madhusudantame@gmail.com](mailto:madhusudantame@gmail.com)**
-* ⚡ Fun Fact: I love transforming data into intelligence 📊
-
----
-
-## ⚙️ Tech Stack
-
-### 🧑‍💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-</p>
-
-### ⚡ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-* 📊 Car Price Prediction (ML + FastAPI)
-* 📈 Stock Market Forecasting (LSTM / ARIMA)
-* 🤖 AI Recruiter System (Resume + Interview AI)
-* 💰 Personal Finance Tracker (Full Stack)
-* 🌿 AI Vegetable Freshness Detection System
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhu45-cell&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu45-cell&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu45-cell" width="60%" />
 </p>
 
 ---
 
-## 🔥 GitHub Activity
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu45-cell&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu45-cell&theme=react-dark" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Trophy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=madhu45-cell&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🎯 Goals 2026
+## Skills Visualization
 
-* 🚀 Build 10+ AI/ML production projects
-* 🧠 Master Deep Learning + MLOps
-* ☁️ Deploy scalable AI SaaS apps
-* 🔓 Contribute to open source
+```text
+Backend Development   ██████████████
+Python               ███████████████
+Machine Learning     ████████████
+Frontend (React)     ██████████
+Databases            ███████████
+```
 
 ---
 
-## 🌐 Connect With Me
+## Goals
 
-<p align="center">
-  <a href="mailto:madhusudantame@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/madhu-sudan-27125b296">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+Build production-level AI/ML systems
 
-<!-- Footer Wave -->
+Master backend architecture and distributed systems
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+Learn MLOps (Docker, CI/CD, Deployment)
+
+Contribute to open source AI projects
+
+Build scalable SaaS AI applications
+
+---
+
+## Contact
+
+Email: [madhusudantame@gmail.com](mailto:madhusudantame@gmail.com)
+
+LinkedIn: [https://linkedin.com/in/madhu-sudan-27125b296](https://linkedin.com/in/madhu-sudan-27125b296)
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
 
